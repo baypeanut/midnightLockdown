@@ -1,0 +1,497 @@
+{
+  "third_party": [
+    {
+      "name": "WetFloorSign_01",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/WetFloorSign_01",
+      "license": "CC0",
+      "author": "Fran Calvente",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/WetFloorSign_01"
+    },
+    {
+      "name": "cardboard_box_01",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/cardboard_box_01",
+      "license": "CC0",
+      "author": "Rahul Chaudhary",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/cardboard_box_01"
+    },
+    {
+      "name": "classic_laptop",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/classic_laptop",
+      "license": "CC0",
+      "author": "Arrangemonk",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/classic_laptop"
+    },
+    {
+      "name": "desk_lamp_arm_01",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/desk_lamp_arm_01",
+      "license": "CC0",
+      "author": "Yann Kervran, Kuutti Siitonen",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/desk_lamp_arm_01"
+    },
+    {
+      "name": "drawer_cabinet",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/drawer_cabinet",
+      "license": "CC0",
+      "author": "Ulan Cabanilla",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/drawer_cabinet"
+    },
+    {
+      "name": "fire_alarm",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/fire_alarm",
+      "license": "CC0",
+      "author": "Slinc",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/fire_alarm"
+    },
+    {
+      "name": "ladder_sectioned_01",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/ladder_sectioned_01",
+      "license": "CC0",
+      "author": "MP",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/ladder_sectioned_01"
+    },
+    {
+      "name": "metal_office_desk",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/metal_office_desk",
+      "license": "CC0",
+      "author": "Ulan Cabanilla",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/metal_office_desk"
+    },
+    {
+      "name": "modern_wooden_cabinet",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/modern_wooden_cabinet",
+      "license": "CC0",
+      "author": "Patrik Pangerl",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/modern_wooden_cabinet"
+    },
+    {
+      "name": "mounted_fluorescent_lights",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/mounted_fluorescent_lights",
+      "license": "CC0",
+      "author": "Ulan Cabanilla",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/mounted_fluorescent_lights"
+    },
+    {
+      "name": "potted_plant_02",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/potted_plant_02",
+      "license": "CC0",
+      "author": "Rico Cilliers",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/potted_plant_02"
+    },
+    {
+      "name": "power_box_01",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/power_box_01",
+      "license": "CC0",
+      "author": "Rico Cilliers, Yann Kervran",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/power_box_01"
+    },
+    {
+      "name": "security_camera_01",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/security_camera_01",
+      "license": "CC0",
+      "author": "Alexander Otterbeck, Yann Kervran",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/security_camera_01"
+    },
+    {
+      "name": "stationery_supplies",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/stationery_supplies",
+      "license": "CC0",
+      "author": "Mateusz Sadek",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/stationery_supplies"
+    },
+    {
+      "name": "steel_frame_shelves_01",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/steel_frame_shelves_01",
+      "license": "CC0",
+      "author": "James Ray Cock",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/steel_frame_shelves_01"
+    },
+    {
+      "name": "television_02",
+      "type": "model",
+      "source_url": "https://polyhaven.com/a/television_02",
+      "license": "CC0",
+      "author": "Benny Weimer",
+      "local_path": "Assets/Lockdown/Art/Models/PolyHaven/television_02"
+    },
+    {
+      "name": "Carpet012",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=Carpet012",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/Carpet012"
+    },
+    {
+      "name": "Concrete034",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=Concrete034",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/Concrete034"
+    },
+    {
+      "name": "DiamondPlate001",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=DiamondPlate001",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/DiamondPlate001"
+    },
+    {
+      "name": "Metal009",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=Metal009",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/Metal009"
+    },
+    {
+      "name": "OfficeCeiling001",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=OfficeCeiling001",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/OfficeCeiling001"
+    },
+    {
+      "name": "PaintedMetal006",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=PaintedMetal006",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/PaintedMetal006"
+    },
+    {
+      "name": "PaintedPlaster017",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=PaintedPlaster017",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/PaintedPlaster017"
+    },
+    {
+      "name": "Rubber004",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=Rubber004",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/Rubber004"
+    },
+    {
+      "name": "Tiles101",
+      "type": "texture",
+      "source_url": "https://ambientcg.com/view?id=Tiles101",
+      "license": "CC0",
+      "local_path": "Assets/Lockdown/Art/Textures/ambientcg/Tiles101"
+    }
+  ],
+  "generated": [
+    {
+      "name": "alarm_whoop",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/alarm_whoop.wav"
+    },
+    {
+      "name": "beep_error",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/beep_error.wav"
+    },
+    {
+      "name": "beep_ok",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/beep_ok.wav"
+    },
+    {
+      "name": "card_insert",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/card_insert.wav"
+    },
+    {
+      "name": "chip_pickup",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/chip_pickup.wav"
+    },
+    {
+      "name": "climb_grip",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/climb_grip.wav"
+    },
+    {
+      "name": "clock_open",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/clock_open.wav"
+    },
+    {
+      "name": "clock_tick",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/clock_tick.wav"
+    },
+    {
+      "name": "dial_catch",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/dial_catch.wav"
+    },
+    {
+      "name": "dial_tick",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/dial_tick.wav"
+    },
+    {
+      "name": "door_slide",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/door_slide.wav"
+    },
+    {
+      "name": "drawer_slide",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/drawer_slide.wav"
+    },
+    {
+      "name": "fuse_insert",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/fuse_insert.wav"
+    },
+    {
+      "name": "grab",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/grab.wav"
+    },
+    {
+      "name": "heartbeat_loop",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/heartbeat_loop.wav"
+    },
+    {
+      "name": "hint_chime",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/hint_chime.wav"
+    },
+    {
+      "name": "laser_hit",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/laser_hit.wav"
+    },
+    {
+      "name": "laser_hum_loop",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/laser_hum_loop.wav"
+    },
+    {
+      "name": "lever_clunk",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/lever_clunk.wav"
+    },
+    {
+      "name": "lose_stinger",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/lose_stinger.wav"
+    },
+    {
+      "name": "mirror_step",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/mirror_step.wav"
+    },
+    {
+      "name": "power_down",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/power_down.wav"
+    },
+    {
+      "name": "power_up",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/power_up.wav"
+    },
+    {
+      "name": "reboot_charge",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/reboot_charge.wav"
+    },
+    {
+      "name": "release",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/release.wav"
+    },
+    {
+      "name": "room_hum_loop",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/room_hum_loop.wav"
+    },
+    {
+      "name": "safe_open",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/safe_open.wav"
+    },
+    {
+      "name": "shutter_dissolve",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/shutter_dissolve.wav"
+    },
+    {
+      "name": "spark",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/spark.wav"
+    },
+    {
+      "name": "teleport_whoosh",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/teleport_whoosh.wav"
+    },
+    {
+      "name": "timer_tick",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/timer_tick.wav"
+    },
+    {
+      "name": "ui_click",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/ui_click.wav"
+    },
+    {
+      "name": "vent_wind_loop",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/vent_wind_loop.wav"
+    },
+    {
+      "name": "win_stinger",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_sfx.py",
+      "local_path": "Assets/Lockdown/Resources/Audio/sfx/win_stinger.wav"
+    },
+    {
+      "name": "dee_catwalk",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/dee_catwalk.wav"
+    },
+    {
+      "name": "dee_clock",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/dee_clock.wav"
+    },
+    {
+      "name": "dee_final",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/dee_final.wav"
+    },
+    {
+      "name": "dee_intro",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/dee_intro.wav"
+    },
+    {
+      "name": "dee_office",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/dee_office.wav"
+    },
+    {
+      "name": "dee_power",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/dee_power.wav"
+    },
+    {
+      "name": "dee_safe",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/dee_safe.wav"
+    },
+    {
+      "name": "dee_vault",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/dee_vault.wav"
+    },
+    {
+      "name": "lines",
+      "type": "data",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/lines.json"
+    },
+    {
+      "name": "warden_denied",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/warden_denied.wav"
+    },
+    {
+      "name": "warden_five",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/warden_five.wav"
+    },
+    {
+      "name": "warden_intro_a",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/warden_intro_a.wav"
+    },
+    {
+      "name": "warden_intro_b",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/warden_intro_b.wav"
+    },
+    {
+      "name": "warden_lose",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/warden_lose.wav"
+    },
+    {
+      "name": "warden_one",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/warden_one.wav"
+    },
+    {
+      "name": "warden_win",
+      "type": "audio",
+      "source": "generated by Tools/audio/make_vo.py (macOS say, WARDEN post processed by Tools/audio/robotize.py)",
+      "local_path": "Assets/Lockdown/Resources/Audio/vo/warden_win.wav"
+    }
+  ]
+}

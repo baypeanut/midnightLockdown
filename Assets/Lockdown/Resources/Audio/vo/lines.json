@@ -1,0 +1,79 @@
+{
+  "lines": [
+    {
+      "key": "warden_intro_a",
+      "speaker": "WARDEN",
+      "text": "Intrusion detected on floor four. Kestrel Dynamics is now in lockdown."
+    },
+    {
+      "key": "warden_intro_b",
+      "speaker": "WARDEN",
+      "text": "All exits are sealed. Fire suppression will flood this floor in ten minutes."
+    },
+    {
+      "key": "dee_intro",
+      "speaker": "Dee",
+      "text": "Hey, it's Dee from building ops. WARDEN has you flagged as the intruder. Get the power back first. The breaker panel is on the back wall, and someone pulled its fuses."
+    },
+    {
+      "key": "dee_power",
+      "speaker": "Dee",
+      "text": "Lights are back. Kowalski's office is sealed, but the maintenance catwalk runs right over it. Climb the ladder by the storage shelves."
+    },
+    {
+      "key": "dee_catwalk",
+      "speaker": "Dee",
+      "text": "Grab the rungs with your grip buttons and pull yourself up. Try not to look down."
+    },
+    {
+      "key": "dee_office",
+      "speaker": "Dee",
+      "text": "You're in. Kowalski keeps the override card in that office, and his safe has the vault battery."
+    },
+    {
+      "key": "dee_clock",
+      "speaker": "Dee",
+      "text": "That wall clock has been stopped for weeks. He was always strange about that clock."
+    },
+    {
+      "key": "dee_safe",
+      "speaker": "Dee",
+      "text": "Old dial safe. Turn it slowly. You will feel it catch when you land on the right number."
+    },
+    {
+      "key": "dee_vault",
+      "speaker": "Dee",
+      "text": "The vault lock needs a laser on its sensor. Power the emitter, then turn the mirrors."
+    },
+    {
+      "key": "dee_final",
+      "speaker": "Dee",
+      "text": "Card in the slot, then hold the reboot button until it finishes. Do not let go."
+    },
+    {
+      "key": "warden_five",
+      "speaker": "WARDEN",
+      "text": "Five minutes until suppression."
+    },
+    {
+      "key": "warden_one",
+      "speaker": "WARDEN",
+      "text": "One minute until suppression."
+    },
+    {
+      "key": "warden_denied",
+      "speaker": "WARDEN",
+      "text": "Access denied."
+    },
+    {
+      "key": "warden_win",
+      "speaker": "WARDEN",
+      "text": "Reboot complete. Lockdown lifted. Have a pleasant night."
+    },
+    {
+      "key": "warden_lose",
+      "speaker": "WARDEN",
+      "text": "Suppression protocol engaged."
+    }
+  ]
+}
